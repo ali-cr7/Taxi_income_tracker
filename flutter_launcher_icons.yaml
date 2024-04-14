@@ -1,0 +1,15 @@
+# flutter_icons:
+#   image_path: 'assets/icons/Taxi11.jpg'
+#   remove_alpha_ios: true
+#   remove_alpha_macos: true
+#   ios: true
+#   android: true
+#   web: true
+#   windows: true
+#   macOS: true
+#   linux: true
+flutter_icons:
+  android: "launcher_icon"  # Specify for which platform you want to generate an icon (Android)
+  ios: true                # Generate for iOS as well
+  image_path: "assets/icons/Taxi11.jpg"  # Path to the asset you wish to use as the launcher icon
+
